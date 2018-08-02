@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "762910560992",
+    "firebase_url": "https://shaghir-8e17a.firebaseio.com",
+    "project_id": "shaghir-8e17a",
+    "storage_bucket": "shaghir-8e17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762910560992:android:70e634552432fc02",
+        "android_client_info": {
+          "package_name": "com.example.salmaali.shaghir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762910560992-03hajg9orctue61o2gtilh8tftkh81sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salmaali.shaghir",
+            "certificate_hash": "d8afd415a1d9502dda335dc2a1957637161d8ede"
+          }
+        },
+        {
+          "client_id": "762910560992-8a9krtegob4b2emu0termkatcc5a1hhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9a13Lx1CzTpMcOe3xNDQHk2vF7cE3RIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762910560992-8a9krtegob4b2emu0termkatcc5a1hhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
